@@ -1,0 +1,12 @@
+c:\users\igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\bin\Debug\2d3d.ru parser.exe.config
+c:\users\igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\bin\Debug\2d3d.ru parser.exe
+c:\users\igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\bin\Debug\2d3d.ru parser.pdb
+c:\users\igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\obj\Debug\2d3d.ru parser.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\obj\Debug\_2d3d.ru_parser.Form1.resources
+c:\users\igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\obj\Debug\_2d3d.ru_parser.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\obj\Debug\2d3d.ru parser.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\obj\Debug\2d3d.ru parser.exe
+c:\users\igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\obj\Debug\2d3d.ru parser.pdb
+C:\Users\Igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Igor\documents\visual studio 2015\Projects\2d3d.ru parser\2d3d.ru parser\bin\Debug\HtmlAgilityPack.xml
